@@ -10,13 +10,14 @@
     background-color: dodgerblue;
     color: white;
     font-family: 'Poppins', sans-serif;
+ 
    
     
  }
 
 #appBody{
     width: 90%;
-    height: 400px;
+    height: 90%;
     align-self: center !important;
     margin: 30px auto;
     background-color: blueviolet;
