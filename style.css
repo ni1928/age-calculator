@@ -1,0 +1,64 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ body{
+    background-color: dodgerblue;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+   
+    
+ }
+
+#appBody{
+    width: 90%;
+    height: 400px;
+    align-self: center !important;
+    margin: 30px auto;
+    background-color: blueviolet;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    
+ }
+#appName{
+   background-color:orange;
+   margin: 0 0 20px 0;
+   padding: 10px;
+   text-align: center;
+  
+
+ }
+#showAge{ 
+   width: 50%;
+   padding: 20px;
+   font-size: 20px;
+   border-radius: 5px;
+   background-color: yellowgreen;
+   margin: 25px auto;
+   align-self: flex-end;
+   
+}
+p {
+   font-size: 20px;
+   text-align: center;
+  
+}
+form{
+   text-align: center;
+}
+
+input {
+   border: 0;
+   padding: 10px 20px;
+   font-size: 20px;
+   border-radius: 50px;
+   margin: 5px;
+}
+#calButton{
+   border-radius: 0;
+   margin: 20px 0 0 40px;
+}
